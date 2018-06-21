@@ -5,3 +5,27 @@ body {
   align-content: center;
   text-align: center;
 }
+
+.footer {
+  text-align: right;
+  color: gray;
+}
+
+h1 {
+  font-size: 49px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
